@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="495ad1e6-c8c8-4cd4-8115-38492b95ba1f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/HW-Wireframe/index.html" afterPath="$PROJECT_DIR$/HW-Wireframe/index.html" />
+      <change beforePath="$PROJECT_DIR$/HW-Wireframe/style.css" afterPath="$PROJECT_DIR$/HW-Wireframe/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW-Wireframe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
@@ -79,12 +80,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518877702612</updated>
-      <workItem from="1518877704171" duration="103000" />
+      <workItem from="1518877704171" duration="333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103000" />
+    <option name="totallyTimeSpent" value="333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="534" y="0" width="1229" height="1047" extended-state="0" />

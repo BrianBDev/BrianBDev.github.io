@@ -1,0 +1,109 @@
+body {
+    /*font-family: 'Georgia', Times, Times New Roman, serif;.*/
+    /*background-image: url("assets/images/dust_scratches.png");*/
+    /*border-bottom: 5px solid #ccc;*/
+    /*border-width: 2px;*/
+    /*width: 100%;*/
+}
+header {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-bottom: 2px solid #ccc;
+
+}
+nav {
+    /*display: inline;*/
+}
+#name {
+    position: relative;
+    height: 90px;
+    width: fit-content;
+    padding-left: 36px;
+    padding-right: 36px;
+    font-size: 30px;
+    line-height: 85px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #fff;
+    float: left;
+}
+.links {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: relative;
+    width: fit-content;
+    padding-left: 19px;
+    padding-right: 19px;
+    margin-top: 32px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #fff;
+    color: #777;
+    display: inline;
+    float: right;
+}
+.contact {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: relative;
+    width: fit-content;
+    padding-left: 19px;
+    margin-top: 32px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #fff;
+    color: #777;
+    display: inline;
+    float: right;
+}
+.pipe {
+    height: 18px;
+    position: relative;
+    border-left: solid #ccc;
+    border-width: 1px;
+    margin-top: 32px;
+    display: inline;
+    float: right;
+}
+#face {
+    float: left;
+}
+#mainContent {
+    background-image: url("../images/dust_scratches.png");
+    width: 960px;
+    border-bottom: 2px solid #ccc;
+    margin-left: auto;
+    margin-right: auto;
+}
+#leftSection {
+    background-image: url("../images/dust_scratches.png");
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+}
+#rightSection {
+    background-image: url("../images/dust_scratches.png");
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 270px;
+}
+#aboutMe {
+    /*float: left;*/
+}
+#leftSectionTitle {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;;
+    font-size: 18px;
+    padding-left: 36px;
+}
+#connectWithMe {
+    width: 270px;
+    float: left;
+    display: inline;
+    text-align: center;
+}
+.clearfix {
+    overflow: auto;
+}
